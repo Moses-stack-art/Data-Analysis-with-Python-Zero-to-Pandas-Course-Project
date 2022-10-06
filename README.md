@@ -11,6 +11,7 @@ In this project, I will examine a dataset on the pay for several data science pr
 #### Data Science Job Salaries Dataset contains 11 columns
 
 | work_year          | The year the salary was paid.                                                                |
+| ------------------ | :------------------------------------------------------------------------------------------: |
 | experience_level   | The level of experience gained on the job during the year.                                   |
 | employment_type    | The type of employment for the role.                                                         |
 | job_title          | The role worked in during the year.                                                          |
