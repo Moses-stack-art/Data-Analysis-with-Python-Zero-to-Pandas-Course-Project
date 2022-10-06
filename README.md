@@ -2,7 +2,7 @@
 
 ## Project Title - Datascience job salaries EDA
 
-<center> ### Introduction <center/>
+### Introduction
 
 In this project, I will examine a dataset on the pay for several data science professions that I downloaded from Kaggle. Using this dataset, I'll provide answers to a number of questions, including: Does a person's work role have an impact on their salary? Does the sort of employment affect the wage earned? Does the size and location of the company have an impact on the salary paid? e.t.c,. To answer these questions, I'll be utilizing Python libraries such as Numpy and Pandas for computations, and Matplotlib and Seaborn for visualizations. A lot of what I'll be doing derives its inspiration from the course offered by Jovian; Data Analysis: Zerotopandas.
 
@@ -11,7 +11,6 @@ In this project, I will examine a dataset on the pay for several data science pr
 #### Data Science Job Salaries Dataset contains 11 columns
 
 | work_year          | The year the salary was paid.                                                                |
-| ------------------ | :------------------------------------------------------------------------------------------: |
 | experience_level   | The level of experience gained on the job during the year.                                   |
 | employment_type    | The type of employment for the role.                                                         |
 | job_title          | The role worked in during the year.                                                          |
