@@ -1,5 +1,7 @@
 # Data Analysis with Python: Zero to Pandas Course Project
 
+***Course offered by Jovian***
+
 ## Project Title - Datascience job salaries EDA
 
 ### Introduction
