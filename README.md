@@ -2,6 +2,8 @@
 
 ***Course offered by Jovian***
 
+<br/>
+
 ## Project Title - Datascience job salaries EDA
 
 ### Introduction
