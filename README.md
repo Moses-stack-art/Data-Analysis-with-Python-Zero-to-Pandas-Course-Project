@@ -3,6 +3,8 @@
 ***Course offered by Jovian***
 
 <br/>
+![image](https://user-images.githubusercontent.com/103646003/200323497-b8c11ca2-7752-4fdc-a0d1-169112e89be9.png)
+<br/>
 
 ## Project Title - Datascience job salaries EDA
 
